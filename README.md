@@ -20,7 +20,7 @@ def max_marks(marks):
 
 ```
 
-ii)	# To find the maximum marks using the list method max().
+ii)	To find the maximum marks using the list method max().
 ```Python
 def max_marks(marks):
     large = max(marks)
@@ -29,7 +29,7 @@ def max_marks(marks):
 
 ```
 
-iii) # To find the maximum marks without using builtin functions.
+iii) To find the maximum marks without using builtin functions.
 ```Python
 def max_marks(list1):
     max=list1[0]
@@ -44,13 +44,13 @@ def max_marks(list1):
 
 
 ## Output:
-i)	# To find the maximum of marks using the list method sort.
+i) To find the maximum of marks using the list method sort.
 ![image](https://github.com/tharunkumaran2006/FindMaximum/assets/151625188/4f1857f9-0cc7-4fa8-8ca3-65044e34521b)
 
-ii)	# To find the maximum marks using the list method max().
+ii) To find the maximum marks using the list method max().
 ![image](https://github.com/tharunkumaran2006/FindMaximum/assets/151625188/75177866-4fc8-4fa7-8a74-c5260340466e)
 
-iii) # To find the maximum marks without using builtin functions.
+iii) To find the maximum marks without using builtin functions.
 ![image](https://github.com/tharunkumaran2006/FindMaximum/assets/151625188/6dcbf8f0-22c1-4d2e-b94f-3d4bd7109534)
 
 ## Result:
